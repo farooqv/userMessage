@@ -1,0 +1,7 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="user message v:1.0">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
